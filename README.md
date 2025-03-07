@@ -1,1 +1,1 @@
-A Portfolioo built with JS
+A Portfolio built with JS
